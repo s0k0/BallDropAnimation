@@ -114,7 +114,7 @@ hr {
 }
 
 .bouncein {
-  animation: bouncein 0.9s cubic-bezier(0.47, 0, 0.745, 0.715) both;
+  animation: bouncein 1s cubic-bezier(0.47, 0, 0.745, 0.715) both;
 }
 
 .rollout {

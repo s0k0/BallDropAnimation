@@ -8,7 +8,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss">
 .ball {
   width: 60px;
   height: 60px;
